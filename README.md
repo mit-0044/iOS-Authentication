@@ -33,4 +33,3 @@ Authtentication is an iOS Application based on user profile management. This app
 4. **Note:** Make sure to set the project details on firebase.
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/dc2ca1f5-8991-43cb-8468-f9b5839f3584" width="197.5">
