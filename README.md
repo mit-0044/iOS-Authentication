@@ -29,7 +29,7 @@ Authtentication is an iOS Application based on user profile management. This app
 ## Usage
 1. Open the project in Xcode.
 2. Build and run the application on a simulator or a physical device.
-3. Use the provided UI to register, log in, and manage user authentication.
-4. **Note:** Make sure to set the project details on firebase.
+3. Use codes of functions and UI to register, log in, and manage user authentication.
+4. **Note:** Make sure to register the project details on firebase.
 
 ## Screenshots
